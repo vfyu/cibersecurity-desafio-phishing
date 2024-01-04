@@ -16,6 +16,13 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
 
+### Opções selecionadas no setoolkit
+
+- Social-engineering attacks ``` opção 1 ```
+- Website attack vectors ``` opção 2 ```
+- Credential harvester attack method ``` opção 3 ```
+- Site cloner ``` opção 2 ```
+
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./testephishing.png "Optional title")
